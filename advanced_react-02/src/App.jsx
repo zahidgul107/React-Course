@@ -4,7 +4,7 @@ import Example from './tutorial/04-project-structure/starter/Examples'
 import Navbar from './tutorial/04-project-structure/starter/Navbar'
 import { Home, About } from './tutorial/04-project-structure/starter/Pages'
 import List from './tutorial/05-leverage-javascript/starter/List'
-import Starter from './tutorial/06-forms/starter/01-controlled-inputs'
+import Starter from './tutorial/06-forms/starter/04-other-inputs'
 // import About from './tutorial/04-project-structure/starter/Pages/About'
 
 function App() {
