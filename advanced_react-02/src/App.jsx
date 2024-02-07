@@ -1,9 +1,10 @@
-import Starter from './tutorial/02-useEffect/starter/05-cleanup-function'
+//import Starter from './tutorial/02-useEffect/starter/05-cleanup-function'
 import Final from './tutorial/03-conditional-rendering/final/05-short-circuit-examples'
 import Example from './tutorial/04-project-structure/starter/Examples'
 import Navbar from './tutorial/04-project-structure/starter/Navbar'
 import { Home, About } from './tutorial/04-project-structure/starter/Pages'
 import List from './tutorial/05-leverage-javascript/starter/List'
+import Starter from './tutorial/06-forms/starter/01-controlled-inputs'
 // import About from './tutorial/04-project-structure/starter/Pages/About'
 
 function App() {
@@ -14,11 +15,12 @@ function App() {
       {/* <Navbar /> */}
       {/* <Home />
       <About /> */}
-      <Example />
+      {/* <Example /> */}
       {/* <div>
         <h2>Glean</h2>
       </div> */}
-      <List />
+      {/* <List /> */}
+      <Starter />
     </div>
   )
 }
