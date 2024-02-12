@@ -6,7 +6,7 @@ const UserContainer = () => {
   console.log(user)
   return (
     <div className="user-container">
-      {/* {user ? (
+      {user ? (
         <>
           <p>Hello There, {user?.name?.toUpperCase()}</p>
           <button className="btn" onClick={logout}>
@@ -17,7 +17,7 @@ const UserContainer = () => {
         <>
           <p>Please Login</p>
         </>
-      )} */}
+      )}
     </div>
   )
 }
